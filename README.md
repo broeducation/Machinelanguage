@@ -1,0 +1,2 @@
+# Machinelanguage
+As we know that mac hine learning is one of the fastest growing technology here we saw that in electrical sector machine learning project is negligible for that we made prototype of our submitting idea .In this we can control our home appliances as well as industrial application with sign language.In this our camera detect object which is use to control appliances and other activities.
